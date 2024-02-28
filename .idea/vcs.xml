@@ -4,5 +4,6 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Imageprocessing-AWS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Imageprocessing-AWS/K8S-Project" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Imageprocessing-AWS/polybot/k8s-project-March" vcs="Git" />
   </component>
 </project>
